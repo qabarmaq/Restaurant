@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(70, 69, 69);
+}
+/* HEADER///////////////////////////////////////////////////////// */
+header {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(39, 39, 39);
+    text-align: center;
+    vertical-align: middle;
+}
+.ancor {
+    color: white;
+    font-size: 270%;
+    text-decoration: none;
+}
+.ancor1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#logo {
+    width: 70px;
+    height: 70px;
+}
+/* HEADER/////////////////////////////////////////////////////// */
+.gde {
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: center;
+    font-size: 200%;
+}
+.kontakti {
+    font-size: 200%;
+    color: white;
+    text-align: center;
+}
+.centerrrr {
+    display: flex;
+    justify-content: center;
+}
+.objectskarttinki {
+    width: 150px;
+    height: 150px;
+    border-radius: 30px;
+}
